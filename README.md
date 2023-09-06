@@ -24,7 +24,7 @@
 **Deep Learning Frameworks**
 - Throughout the project, we explore and gain proficiency in two major deep learning frameworks: PyTorch and TensorFlow. This dual-framework approach broadens our understanding of deep learning ecosystems, enabling us to choose the right tool for future projects.
 
-*****Key Takeaways*****
+*****  Key Takeaways  *****
 - This learning project yields several valuable insights and takeaways:
 
 **Data Preparation Skills**
