@@ -1,4 +1,4 @@
-****Deep Learning Image Classification Project****
+***Deep Learning Image Classification Project***
 
 **Overview**
 - This deep learning image classification project is designed to provide a comprehensive understanding of the fundamental concepts of image classification using Convolutional Neural Networks (CNNs). The project focuses on building a custom CNN model from scratch to classify a diverse dataset consisting of 525 categories of birds. While the achieved accuracy may not be the highest priority, the primary goal is to gain hands-on experience and knowledge in the domain of deep learning.
