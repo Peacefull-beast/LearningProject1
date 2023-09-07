@@ -6,8 +6,11 @@
     **Project Structure**
 - The project is organized into several key components, each serving a specific purpose in the image classification pipeline:
 
+  **Data Sample**
+- A data sample has been included in the repository to provide an overview of the dataset's content. This sample consists of a selection of images and corresponding class labels, offering a glimpse into the dataset's composition and structure.
+
   **Data Preparation (`data_prep.py`)**
-- In the data_prep.py script, we address the crucial task of preparing the dataset for training. This involves collecting, organizing, and structuring the data in a suitable format for deep learning. The os library plays a significant role in efficiently managing files and directories.
+- In the data_prep.py script, we address the crucial task of preparing the dataset for training. This involves collecting, organizing, and structuring the data in a suitable format for deep learning model to process. The os library plays a significant role in efficiently managing files and directories.
 
   **Data Loaders (`dataloader.py`)**
 - To facilitate efficient data handling, the dataloader.py script focuses on creating data loaders using PyTorch's data handling capabilities. Data loaders are essential for loading and batching the dataset, making it ready for training and testing.
