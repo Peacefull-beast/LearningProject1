@@ -12,7 +12,7 @@
 **Data Loaders (`dataloader.py`)**
 - To facilitate efficient data handling, the dataloader.py script focuses on creating data loaders using PyTorch's data handling capabilities. Data loaders are essential for loading and batching the dataset, making it ready for training and testing.
 
-**Set Device to GPU(device.py)**
+**Set Device to GPU(`device.py`)**
 - This code snippet sets the device to GPU for model training, enabling faster computation and leveraging the power of the graphics card to accelerate deep learning processes.
 
 **Model Architecture (`model_pytorch.py`)**
